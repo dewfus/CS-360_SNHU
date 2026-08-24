@@ -1,6 +1,7 @@
 # Event Tracker
 
 **CS-360 - Mobile Architect & Programming**
+
 **Southern New Hampshire University**
 
 An Android app for keeping track of personal events and getting a reminder on the day one arrives. Built in Java.
